@@ -14,7 +14,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 591319906,Abbas Abubakar Abbas,BRN,male,1996-05-17,1.75,66,athletics,0,0,0
 258556239,Abbas Qali,IOA,male,1992-10-11,,,aquatics,0,0,0
 376068084,Abbey D'Agostino,USA,female,1992-05-25,1.61,49,athletics,0,0,0
-162792594,Abbey Weitzeil,USA,female,1996-12-03,1.78,68,aquatics,0,0,0
+162792594,Abbey Weitzeil,USA,female,1996-12-03,1.78,68,aquatics,0,1,0
 521036704,Abbie Brown,GBR,female,1996-04-10,1.76,71,rugby sevens,0,0,0
 564211357,Abbos RAKHMONOV,UZB,male,1998-07-07,1.61,57,wrestling,0,0,0
 256673338,Abbubaker Mobara,RSA,male,1994-02-18,1.75,64,football,0,0,0
@@ -284,7 +284,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 966601149,Albina Shakirova,RUS,female,1987-03-30,1.65,50,shooting,0,0,0
 74286490,Aldemir da Silva Junior,BRA,male,1992-06-08,1.93,80,athletics,0,0,0
 46123715,Aldo Montano,ITA,male,1978-11-18,1.84,82,fencing,0,0,0
-343089125,Alec Potts,AUS,male,1996-02-09,1.85,77,archery,0,0,0
+343089125,Alec Potts,AUS,male,1996-02-09,1.85,77,archery,0,0,1
 210525666,Aleixo-Platini Menga,GER,male,1987-09-29,1.82,82,athletics,0,0,0
 969294495,Alejandra Betancur,COL,female,1987-06-13,1.6,82,rugby sevens,0,0,0
 388913856,Alejandra Garza Garza,MEX,female,1991-08-01,1.65,75,weightlifting,0,0,0
@@ -536,7 +536,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 373002185,Allison Beveridge,CAN,female,1993-06-01,1.69,62,cycling,0,0,0
 606328661,Allison M. Brock,USA,female,1979-12-07,1.68,58,equestrian,0,0,0
 68050568,Allison Pineau,FRA,female,1989-05-02,1.81,66,handball,0,0,0
-944908522,Allison Schmitt,USA,female,1990-06-07,1.86,74,aquatics,0,0,0
+944908522,Allison Schmitt,USA,female,1990-06-07,1.86,74,aquatics,0,1,0
 881130710,Allistar Clarke,SKN,male,1990-10-03,1.87,71,athletics,0,0,0
 686662012,Allysha Chapman,CAN,female,1989-01-25,1.6,58,football,0,0,0
 629649792,Allyson Felix,USA,female,1985-11-18,1.68,56,athletics,0,0,0
@@ -589,7 +589,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 839220577,Amanda Polk,USA,female,1986-08-02,1.81,83,rowing,0,0,0
 362158810,Amanda Simeao,BRA,female,1994-06-02,1.66,62,fencing,0,0,0
 340529563,Amanda Spratt,AUS,female,1987-09-17,1.61,55,cycling,0,0,0
-118871166,Amanda Weir,USA,female,1986-03-11,1.88,77,aquatics,0,0,0
+118871166,Amanda Weir,USA,female,1986-03-11,1.88,77,aquatics,0,1,0
 537662343,Amandine Henry,FRA,female,1989-09-28,1.71,64,football,0,0,0
 824703681,Amandine LHOTE,FRA,female,1986-12-22,1.68,64,canoe,0,0,0
 17350450,Amandine Leynaud,FRA,female,1986-05-02,1.78,64,handball,0,0,0
@@ -614,7 +614,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 335567750,Amelia Rosa Fournel,ARG,female,1977-02-20,1.6,50,shooting,0,0,0
 441377099,Amelie KRETZ,CAN,female,1993-05-19,1.68,53,triathlon,0,0,0
 194584874,Amer HRUSTANOVIC,AUT,male,1988-06-11,1.8,91,wrestling,0,0,0
-17841864,Ami Kondo,JPN,female,1995-05-09,1.56,48,judo,0,0,0
+17841864,Ami Kondo,JPN,female,1995-05-09,1.56,48,judo,0,0,1
 548537603,Amidou MIR,FRA,male,1995-01-01,1.73,78,cycling,0,0,0
 801305021,Amie THOMPSON,AUS,female,1996-01-31,1.65,58,aquatics,0,0,0
 811727068,Amina Bettiche,ALG,female,1987-12-14,1.65,55,athletics,0,0,0
@@ -1450,7 +1450,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 390927427,Berthrade Simone Flore Bikatal,CMR,female,1992-07-23,1.83,76,volleyball,0,0,0
 347904621,Bertrand Roine,QAT,male,1981-02-17,1.98,99,handball,0,0,0
 634276383,Beryl Gastaldello,FRA,female,1995-02-16,1.76,66,aquatics,0,0,0
-613088812,Beslan Mudranov,RUS,male,1986-07-07,1.66,60,judo,0,0,0
+613088812,Beslan Mudranov,RUS,male,1986-07-07,1.66,60,judo,1,0,0
 822286344,Besu Sado,ETH,female,1996-06-12,1.72,56,athletics,0,0,0
 943971426,Beth Potter,GBR,female,1991-12-27,1.7,51,athletics,0,0,0
 552255079,Bethanie Mattek-Sands,USA,female,1985-03-23,1.68,65,tennis,0,0,0
@@ -1532,10 +1532,10 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 597510808,Bojana Popovic,MNE,female,1979-11-20,1.88,86,handball,0,0,0
 189764365,Bojana Zivkovic,SRB,female,1988-03-29,1.86,72,volleyball,0,0,0
 599338352,Bokai Huang,CHN,male,1996-09-26,1.9,78,athletics,0,0,0
-633981325,Bokyeong Jeong,KOR,female,1991-04-17,1.53,51,judo,0,0,0
+633981325,Bokyeong Jeong,KOR,female,1991-04-17,1.53,51,judo,0,1,0
 37603597,Bombayla Devi Laishram,IND,female,1985-02-22,1.64,60,archery,0,0,0
 969273805,Bomi Kim,KOR,female,1985-10-07,1.57,54,hockey,0,0,0
-841861773,Bonchan Ku,KOR,male,1993-01-31,1.81,84,archery,0,0,0
+841861773,Bonchan Ku,KOR,male,1993-01-31,1.81,84,archery,1,0,0
 593350909,Bongil Gu,KOR,male,1989-04-27,1.82,70,fencing,0,0,0
 947726,Boniface Mucheru Tumuti,KEN,male,1992-05-02,1.75,72,athletics,0,0,0
 25616888,Boonsak Ponsana,THA,male,1982-02-22,1.79,75,badminton,0,0,0
@@ -1565,7 +1565,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 901307783,Bradley Shaw,NZL,male,1983-02-13,1.81,92,hockey,0,0,0
 943842758,Bradley Vincent,MRI,male,1991-11-30,1.95,89,aquatics,0,0,0
 499035410,Bradley Wiggins,GBR,male,1980-04-28,1.9,82,cycling,0,0,0
-139075859,Brady Ellison,USA,male,1988-10-27,1.81,86,archery,0,0,0
+139075859,Brady Ellison,USA,male,1988-10-27,1.81,86,archery,0,1,0
 140387635,Brahim Kaazouzi,MAR,male,1990-06-15,1.79,62,athletics,0,0,0
 85379844,Braian Toledo,ARG,male,1993-09-08,1.87,100,athletics,0,0,0
 327920403,Bralon Taplin,GRN,male,1992-05-08,,,athletics,0,0,0
@@ -1624,7 +1624,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 524776452,Brittany Benn,CAN,female,1989-04-23,1.65,68,rugby sevens,0,0,0
 837634473,Brittany Borman,USA,female,1989-07-01,1.83,77,athletics,0,0,0
 136154437,Brittany Crew,CAN,female,1994-03-06,1.78,112,athletics,0,0,0
-974255098,Brittany Elmslie,AUS,female,1994-06-19,1.8,69,aquatics,0,0,0
+974255098,Brittany Elmslie,AUS,female,1994-06-19,1.8,69,aquatics,1,0,0
 975241751,Brittany Maclean,CAN,female,1994-03-03,1.68,59,aquatics,0,0,0
 667985741,Brittany O'Brien,AUS,female,1998-05-27,1.68,55,aquatics,0,0,0
 601613381,Brittany Rogers,CAN,female,1993-06-08,1.65,60,gymnastics,0,0,0
@@ -1632,7 +1632,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 772781845,Brittney Reese,USA,female,1986-09-09,1.73,61,athletics,0,0,0
 476644551,Brock Motum,AUS,male,1990-10-16,2.08,107,basketball,0,0,0
 942791136,Bronte Barratt,AUS,female,1989-02-08,1.71,58,aquatics,0,0,0
-936338083,Bronte Campbell,AUS,female,1994-05-14,1.79,58,aquatics,0,0,0
+936338083,Bronte Campbell,AUS,female,1994-05-14,1.79,58,aquatics,1,0,0
 339065127,Bronwen Knox,AUS,female,1986-04-16,1.82,88,water polo,0,0,0
 625465432,Brook Robertson,NZL,male,1994-02-19,1.94,95,rowing,0,0,0
 533491760,Brooke CRAIN,USA,female,1993-04-29,1.63,55,cycling,0,0,0
@@ -1812,7 +1812,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 768142063,Catalina Perez,COL,female,1994-11-08,1.74,60,football,0,0,0
 943865464,Catalina Ponor,ROU,female,1987-08-20,1.56,47,gymnastics,0,0,0
 885026394,Catalina Usme,COL,female,1989-12-25,1.68,67,football,0,0,0
-468505846,Cate Campbell,AUS,female,1992-05-20,1.86,74,aquatics,0,0,0
+468505846,Cate Campbell,AUS,female,1992-05-20,1.86,74,aquatics,1,0,0
 576401005,Caterine Ibarguen,COL,female,1984-02-12,1.85,70,athletics,0,0,0
 10051518,Catharine PENDREL,CAN,female,1980-09-30,1.66,50,cycling,0,0,0
 638981587,Catherine Abilla,KEN,female,1989-04-01,1.62,56,rugby sevens,0,0,0
@@ -1885,7 +1885,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 227590205,Chanice Chase,CAN,female,1993-08-06,1.73,61,athletics,0,0,0
 66906563,Chantal Achterberg,NED,female,1985-04-16,1.72,72,rowing,0,0,0
 25695000,Chantal Hoffmann,LUX,female,1987-10-30,1.67,62,cycling,0,0,0
-543504980,Chantal Van Landeghem,CAN,female,1994-03-05,1.8,77,aquatics,0,0,0
+543504980,Chantal Van Landeghem,CAN,female,1994-03-05,1.8,77,aquatics,0,0,1
 797864870,Chantelle Esau,RSA,female,1990-12-14,1.63,52,football,0,0,0
 327647564,Chanu Saikhom Mirabai,IND,female,1994-08-08,1.45,48,weightlifting,0,0,0
 912660957,Chao He,CHN,male,1992-02-11,1.68,67,aquatics,0,0,0
@@ -1926,7 +1926,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 892102101,Charlotte Taylor,GBR,female,1985-08-14,1.65,57,rowing,0,0,0
 660698958,Charlotte Wingfield,MLT,female,1994-11-30,1.73,69,athletics,0,0,0
 534915497,Charly Coronel Suarez,PHI,male,1988-08-14,1.68,,boxing,0,0,0
-280839325,Chase Kalisz,USA,male,1994-03-07,1.94,86,aquatics,0,0,0
+280839325,Chase Kalisz,USA,male,1994-03-07,1.94,86,aquatics,0,1,0
 172605040,Chatchai Butdee,THA,male,1985-03-26,1.66,,boxing,0,0,0
 851008982,Chatuphum Chinnawong,THA,male,1993-07-19,1.67,77,weightlifting,0,0,0
 714871025,Chaunte Lowe,USA,female,1984-01-12,1.76,59,athletics,0,0,0
@@ -2236,7 +2236,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 989560488,Daisy Cleverley,NZL,female,1997-04-30,1.7,59,football,0,0,0
 693678730,Daisy Kaitano,ZIM,female,1993-09-20,1.71,61,football,0,0,0
 242973427,Daiva Tuslaite,LTU,female,1986-06-18,1.72,58,cycling,0,0,0
-192954208,Daiya Seto,JPN,male,1994-05-24,1.74,73,aquatics,0,0,0
+192954208,Daiya Seto,JPN,male,1994-05-24,1.74,73,aquatics,0,0,1
 902505168,Dajana Butulija,SRB,female,1986-02-23,1.75,65,basketball,0,0,0
 205886057,Dalal Mesfer Al Harith,QAT,female,1999-11-28,1.6,55,athletics,0,0,0
 576218781,Dalia Torrez,NCA,female,1990-03-29,1.74,70,aquatics,0,0,0
@@ -2269,7 +2269,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 721862825,Dan Norton,GBR,male,1988-03-22,1.8,85,rugby sevens,0,0,0
 765792716,Dan Wallace,GBR,male,1993-04-14,1.88,80,aquatics,0,0,0
 134936135,Dana Veldakova,SVK,female,1981-06-03,1.79,61,athletics,0,0,0
-622909202,Dana Vollmer,USA,female,1987-11-13,1.86,68,aquatics,0,0,0
+622909202,Dana Vollmer,USA,female,1987-11-13,1.86,68,aquatics,0,1,0
 55407824,Danai Bhobho,ZIM,female,1992-12-01,1.63,59,football,0,0,0
 211024970,Danas Rapsys,LTU,male,1995-05-21,1.9,84,aquatics,0,0,0
 665814461,Dane Bird-Smith,AUS,male,1992-07-15,1.87,72,athletics,0,0,0
@@ -2628,7 +2628,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 460186785,Dirk van Tichelt,BEL,male,1984-06-10,1.73,73,judo,0,0,0
 276444388,Dirngulbai Misech,PLW,female,1997-09-27,1.65,51,aquatics,0,0,0
 158299289,Dival Forele Malonga Dzalamou,CGO,male,1995-04-18,,,boxing,0,0,0
-410843536,Diyorbek Urozboev,UZB,male,1993-08-17,1.72,60,judo,0,0,0
+410843536,Diyorbek Urozboev,UZB,male,1993-08-17,1.72,60,judo,0,0,1
 640654202,Djenebou Dante,MLI,female,1989-08-07,1.76,73,athletics,0,0,0
 208714960,Dmitri Barsuk,RUS,male,1980-01-20,1.94,96,beach volleyball,0,0,0
 486721254,Dmitrii Ushakov,RUS,male,1988-08-15,1.77,65,gymnastics,0,0,0
@@ -2979,7 +2979,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 588334076,Emelie Lundberg,SWE,female,1993-03-10,1.73,74,football,0,0,0
 468726382,Emerric Kpegba,TOG,male,1999-05-29,,,aquatics,0,0,0
 174328356,Emerson Duarte,BRA,male,1971-10-18,1.82,80,shooting,0,0,0
-414726536,Emese Szasz,HUN,female,1982-09-07,1.76,71,fencing,0,0,0
+414726536,Emese Szasz,HUN,female,1982-09-07,1.76,71,fencing,1,0,0
 852099973,Emi Nishikori,JPN,female,1993-01-09,1.6,53,hockey,0,0,0
 87680964,Emil Larsen,DEN,male,1991-06-22,1.83,79,football,0,0,0
 514462575,Emil Milev,USA,male,1968-05-02,1.78,83,shooting,0,0,0
@@ -3015,7 +3015,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 87473289,Emma Johansson,SWE,female,1983-09-23,1.68,54,cycling,0,0,0
 717137601,Emma Larsson,SWE,female,1998-11-15,1.47,40,gymnastics,0,0,0
 821330318,Emma MOFFATT,AUS,female,1984-09-07,1.71,57,triathlon,0,0,0
-661638106,Emma McKeon,AUS,female,1994-05-24,1.8,60,aquatics,0,0,0
+661638106,Emma McKeon,AUS,female,1994-05-24,1.8,60,aquatics,1,0,0
 493087174,Emma Pooley,GBR,female,1982-10-03,1.57,50,cycling,0,0,0
 79453290,Emma Robinson,NZL,female,1994-09-26,1.8,72,aquatics,0,0,0
 327389917,Emma Tonegato,AUS,female,1995-03-20,1.65,63,rugby sevens,0,0,0
@@ -3300,7 +3300,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 426841600,Felipe AMARAL,BRA,male,1990-10-09,,,equestrian,0,0,0
 932918802,Felipe Aguilar,COL,male,1993-01-20,1.91,80,football,0,0,0
 715303809,Felipe Aguilar,CHI,male,1974-11-07,1.7,72,golf,0,0,0
-671103389,Felipe Almeida Wu,BRA,male,1992-06-11,1.69,69,shooting,0,0,0
+671103389,Felipe Almeida Wu,BRA,male,1992-06-11,1.69,69,shooting,0,1,0
 390089818,Felipe Anderson,BRA,male,1993-04-15,1.75,69,football,0,0,0
 854679340,Felipe Borges,BRA,male,1994-11-16,1.85,72,canoe,0,0,0
 959719489,Felipe Cardenas Morales,CHI,male,1991-07-22,1.83,75,rowing,0,0,0
@@ -3519,7 +3519,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 101409692,Gabriela Petrova,BUL,female,1992-06-29,1.67,58,athletics,0,0,0
 901521061,Gabriela Stafford,CAN,female,1995-09-13,1.63,53,athletics,0,0,0
 951509811,Gabriela Stoeva,BUL,female,1994-07-15,1.69,63,badminton,0,0,0
-188364932,Gabriele Detti,ITA,male,1994-08-29,1.84,79,aquatics,0,0,0
+188364932,Gabriele Detti,ITA,male,1994-08-29,1.84,79,aquatics,0,0,1
 208944185,Gabriele Rossetti,ITA,male,1995-03-07,1.76,65,shooting,0,0,0
 697532444,Gabriella Doueihy,LIB,female,1999-04-30,,,aquatics,0,0,0
 630035261,Gabriella SZABO,HUN,female,1986-08-14,1.7,62,canoe,0,0,0
@@ -3761,7 +3761,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 332150685,Greg BILLINGTON,USA,male,1989-05-30,1.76,65,triathlon,0,0,0
 267820041,Greg Patrick Broderick,IRL,male,1985-09-21,1.8,50,equestrian,0,0,0
 310167929,Greg Rutherford,GBR,male,1986-11-17,1.88,92,athletics,0,0,0
-503615176,Greg van Avermaet,BEL,male,1985-05-17,1.81,74,cycling,0,0,0
+503615176,Greg van Avermaet,BEL,male,1985-05-17,1.81,74,cycling,1,0,0
 615982348,Gregor Traber,GER,male,1992-12-02,1.9,80,athletics,0,0,0
 127715970,Gregorio Paltrinieri,ITA,male,1994-09-05,1.91,72,aquatics,0,0,0
 160584680,Gregory Bauge,FRA,male,1985-01-31,1.81,100,cycling,0,0,0
@@ -4084,7 +4084,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 378183689,Hiroki Fujiharu,JPN,male,1988-11-28,1.75,60,football,0,0,0
 361521049,Hiroki Ogita,JPN,male,1987-12-30,1.86,80,athletics,0,0,0
 198161931,Hiromasa Fujimori,JPN,male,1991-08-07,1.76,72,aquatics,0,0,0
-441329153,Hiromi Miyake,JPN,female,1985-11-18,1.45,48,weightlifting,0,0,0
+441329153,Hiromi Miyake,JPN,female,1985-11-18,1.45,48,weightlifting,0,0,1
 361129434,Hirooki Arai,JPN,male,1988-05-18,1.8,62,athletics,0,0,0
 569753343,Hiroshi Nakano,JPN,male,1987-12-01,1.76,72,rowing,0,0,0
 689852563,Hiroyuki Endo,JPN,male,1986-12-16,1.71,72,badminton,0,0,0
@@ -4513,11 +4513,11 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 93687880,Jaisha Orchatteri,IND,female,1983-05-23,1.54,43,athletics,0,0,0
 47754234,Jak Ali Harvey,TUR,male,1989-05-04,1.83,74,athletics,0,0,0
 280957264,Jake Bensted,AUS,male,1994-03-04,1.73,73,judo,0,0,0
-507019886,Jake Kaminski,USA,male,1988-08-11,1.78,70,archery,0,0,0
+507019886,Jake Kaminski,USA,male,1988-08-11,1.78,70,archery,0,1,0
 191443309,Jake Lilley,AUS,male,1993-07-20,2.04,98,sailing,0,0,0
 742672786,Jake Milton Green,RSA,male,1994-03-30,1.92,90,rowing,0,0,0
 919219233,Jake Packard,AUS,male,1994-06-20,1.95,68,aquatics,0,0,0
-833814609,Jakob Fuglsang,DEN,male,1985-03-22,1.83,69,cycling,0,0,0
+833814609,Jakob Fuglsang,DEN,male,1985-03-22,1.83,69,cycling,0,1,0
 120862202,Jakob MAKARASHVILI,GEO,male,1985-12-28,1.74,80,wrestling,0,0,0
 391045084,Jakov Gojun,CRO,male,1986-04-18,2.03,112,handball,0,0,0
 654667926,Jakson Vicent Monasterio,VEN,male,1991-12-31,,,rowing,0,0,0
@@ -5490,7 +5490,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 36697871,Kathleen Baker,USA,female,1997-02-28,1.73,67,aquatics,0,0,0
 136505337,Kathleen Bam,USA,female,1988-12-06,1.55,54,hockey,0,0,0
 353620509,Kathleen Bertko,USA,female,1983-11-08,1.76,58,rowing,0,0,0
-399968345,Kathleen Ledecky,USA,female,1997-03-17,1.83,72,aquatics,0,0,0
+399968345,Kathleen Ledecky,USA,female,1997-03-17,1.83,72,aquatics,0,1,0
 280337491,Kathleen Sharkey,USA,female,1990-04-30,1.63,58,hockey,0,0,0
 530798213,Kathrin Hendrich,GER,female,1992-04-06,1.72,60,football,0,0,0
 257116773,Kathrin Klaas,GER,female,1984-02-06,1.68,72,athletics,0,0,0
@@ -5510,7 +5510,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 624052007,Katie Rae Ebzery,AUS,female,1990-01-08,1.77,70,basketball,0,0,0
 810072016,Katie Taylor,IRL,female,1986-07-01,1.62,,boxing,0,0,0
 339859078,Katie ZAFERES,USA,female,1989-06-09,1.73,58,triathlon,0,0,0
-643664378,Katinka Hosszu,HUN,female,1989-05-03,1.75,68,aquatics,0,0,0
+643664378,Katinka Hosszu,HUN,female,1989-05-03,1.75,68,aquatics,1,0,0
 353743276,Katja Steen Salskov-Iversen,DEN,female,1994-08-19,1.73,70,sailing,0,0,0
 925144551,Katlin Tammiste,EST,female,1996-04-06,1.69,63,sailing,0,0,0
 176221607,Katrien VERSTUYFT,BEL,female,1982-07-21,1.7,61,triathlon,0,0,0
@@ -5784,7 +5784,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 419860088,Konstanze Klosterhalfen,GER,female,1997-02-18,1.74,48,athletics,0,0,0
 947966801,Korey JARVIS,CAN,male,1986-10-04,1.88,115,wrestling,0,0,0
 409930037,Kosovare Asllani,SWE,female,1989-07-29,1.66,54,football,0,0,0
-794043609,Kosuke Hagino,JPN,male,1994-08-15,1.77,71,aquatics,0,0,0
+794043609,Kosuke Hagino,JPN,male,1994-08-15,1.77,71,aquatics,1,0,0
 791705872,Kosuke Nakamura,JPN,male,1995-02-27,1.84,72,football,0,0,0
 18488153,Kota Murayama,JPN,male,1993-02-23,1.74,54,athletics,0,0,0
 422424765,Kothajit Khadangbam,IND,male,1992-08-17,1.7,63,hockey,0,0,0
@@ -6112,11 +6112,11 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 237908464,Lexi Weeks,USA,female,1996-11-20,,,athletics,0,0,0
 568580564,Leydi Laura MOYA,CUB,female,1992-04-16,1.7,68,modern pentathlon,0,0,0
 654502394,Leyla Rajabi,IRI,female,1983-04-18,1.87,100,athletics,0,0,0
-176154136,Li Du,CHN,female,1982-03-05,1.7,55,shooting,0,0,0
+176154136,Li Du,CHN,female,1982-03-05,1.7,55,shooting,0,1,0
 29390793,Li GUO,CHN,female,1993-05-11,1.67,54,aquatics,0,0,0
 157385962,Li Lin,CHN,female,1992-07-05,1.71,70,volleyball,0,0,0
 394183572,Li Yang,CHN,female,1991-01-31,1.67,58,football,0,0,0
-462590793,Lia Neal,USA,female,1995-02-13,1.78,74,aquatics,0,0,0
+462590793,Lia Neal,USA,female,1995-02-13,1.78,74,aquatics,0,1,0
 472892087,Liadagmis Povea,CUB,female,1996-02-06,1.66,52,athletics,0,0,0
 329731832,Liam Adams,AUS,male,1986-09-04,1.78,64,athletics,0,0,0
 865915642,Liam Bertazzo,ITA,male,1992-02-17,1.85,70,cycling,0,0,0
@@ -6465,7 +6465,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 280514109,Maciej Bodnar,POL,male,1985-03-07,1.86,78,cycling,0,0,0
 703301693,Maciej Okreglak,POL,male,1993-07-05,1.76,73,canoe,0,0,0
 595036490,Maciej Sarnacki,POL,male,1987-02-10,2.0,130,judo,0,0,0
-164336979,Mack Horton,AUS,male,1996-04-25,1.9,88,aquatics,0,0,0
+164336979,Mack Horton,AUS,male,1996-04-25,1.9,88,aquatics,1,0,0
 831329094,Mackenzie Arnold,AUS,female,1994-02-25,1.79,70,football,0,0,0
 359535568,Mackenzie Brown,USA,female,1995-03-14,1.77,74,archery,0,0,0
 243963793,Madai Perez,MEX,female,1980-02-02,1.58,46,athletics,0,0,0
@@ -6475,7 +6475,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 713460320,Maddison Keeney,AUS,female,1996-05-23,1.67,62,aquatics,0,0,0
 72981815,Madelein Meppelink,NED,female,1989-11-29,1.83,75,beach volleyball,0,0,0
 946141261,Madeleine Edmunds,AUS,female,1992-01-03,1.87,81,rowing,0,0,0
-37020908,Madeline Dirado,USA,female,1993-04-05,1.76,64,aquatics,0,0,0
+37020908,Madeline Dirado,USA,female,1993-04-05,1.76,64,aquatics,0,1,0
 341947091,Madeline Groves,AUS,female,1995-05-25,1.79,66,aquatics,0,0,0
 891088066,Madeline Heiner Hills,AUS,female,1987-05-15,1.74,53,athletics,0,0,0
 473250088,Madeline Musselman,USA,female,1998-06-16,1.81,65,water polo,0,0,0
@@ -6483,7 +6483,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 996222405,Madison Hughes,USA,male,1992-10-26,1.73,79,rugby sevens,0,0,0
 527332545,Madison Keys,USA,female,1995-02-17,1.78,68,tennis,0,0,0
 376474889,Madison Kocian,USA,female,1997-06-15,1.58,46,gymnastics,0,0,0
-540102843,Madison Wilson,AUS,female,1994-05-31,1.79,61,aquatics,0,0,0
+540102843,Madison Wilson,AUS,female,1994-05-31,1.79,61,aquatics,1,0,0
 448658832,Madonna Blyth,AUS,female,1985-11-30,1.65,60,hockey,0,0,0
 877108411,Mads Christiansen,DEN,male,1986-05-03,1.97,93,handball,0,0,0
 397456210,Mads Glaesner,DEN,male,1988-10-18,1.91,81,aquatics,0,0,0
@@ -7398,7 +7398,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 24450560,Michelle Plouffe,CAN,female,1992-09-15,1.9,82,basketball,0,0,0
 190326446,Michelle Vittese,USA,female,1989-12-06,1.61,57,hockey,0,0,0
 680576111,Michelle WEBER,RSA,female,1996-09-28,1.66,63,aquatics,0,0,0
-876460837,Michelle Williams,CAN,female,1991-01-02,1.7,61,aquatics,0,0,0
+876460837,Michelle Williams,CAN,female,1991-01-02,1.7,61,aquatics,0,0,1
 283186204,Michelle van der Pols,NED,female,1989-01-06,1.72,61,hockey,0,0,0
 133448411,Michelle-Lee Ahye,TTO,female,1992-04-10,1.6,64,athletics,0,0,0
 478258348,Mick Clohissey,IRL,male,1986-01-13,1.8,64,athletics,0,0,0
@@ -7542,7 +7542,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 589013959,Miranda Melville,USA,female,1989-03-20,1.58,49,athletics,0,0,0
 539312354,Mirco Pruijser,NED,male,1989-08-11,1.94,87,hockey,0,0,0
 16778625,Mirco Scarantino,ITA,male,1995-01-16,1.66,56,weightlifting,0,0,0
-837308127,Mireia Belmonte Garcia,ESP,female,1990-11-10,1.7,59,aquatics,0,0,0
+837308127,Mireia Belmonte Garcia,ESP,female,1990-11-10,1.7,59,aquatics,0,0,1
 146069322,Mirela Demireva,BUL,female,1989-09-28,1.8,58,athletics,0,0,0
 434030181,Miri Alatras,PLE,female,1994-06-27,,,aquatics,0,0,0
 130333174,Miriam CASILLAS GARCIA,ESP,female,1992-06-24,1.64,52,triathlon,0,0,0
@@ -7798,7 +7798,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 634283561,Nanna Vainio,FIN,female,1991-05-29,1.7,60,badminton,0,0,0
 679632915,Nanthana Komwong,THA,female,1980-09-13,1.59,54,table tennis,0,0,0
 95609257,Nao Hibino,JPN,female,1994-11-28,1.63,58,tennis,0,0,0
-415843643,Naohisa Takato,JPN,male,1993-05-30,1.6,60,judo,0,0,0
+415843643,Naohisa Takato,JPN,male,1993-05-30,1.6,60,judo,0,0,1
 30264154,Naoko Ishihara,JPN,female,1974-10-22,1.57,64,shooting,0,0,0
 267100732,Naomi FLOOD,AUS,female,1986-04-17,1.75,,canoe,0,0,0
 807036162,Naomi Folkard,GBR,female,1983-09-18,1.69,76,archery,0,0,0
@@ -8315,7 +8315,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 953914833,Otgonbaatar Lkhagvasuren,MGL,male,1993-01-20,1.82,94,judo,0,0,0
 358198982,Otgonbayar Luvsanlundeg,MGL,female,1982-07-13,1.53,47,athletics,0,0,0
 349670408,Otgondalai Dorjnyambuu,MGL,male,1988-01-28,1.7,,boxing,0,0,0
-830288020,Otgontsetseg Galbadrakh,KAZ,female,1992-01-25,1.65,48,judo,0,0,0
+830288020,Otgontsetseg Galbadrakh,KAZ,female,1992-01-25,1.65,48,judo,0,0,1
 605590898,Oumar Toure,MLI,male,1996-01-24,1.59,57,aquatics,0,0,0
 570635423,Oumou Toure,SEN,female,1988-02-18,1.89,86,basketball,0,0,0
 748074466,Oumoul Thiam,SEN,female,1990-02-03,1.79,68,basketball,0,0,0
@@ -8455,7 +8455,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 820732854,Paula Leiton Arrones,ESP,female,2000-04-27,1.87,98,water polo,0,0,0
 990523633,Paula Lynn Obanana,USA,female,1985-03-19,1.61,58,badminton,0,0,0
 55960503,Paula Medin,ESP,female,1984-06-17,1.71,66,rugby sevens,0,0,0
-300343611,Paula Pareto,ARG,female,1986-01-16,1.5,48,judo,0,0,0
+300343611,Paula Pareto,ARG,female,1986-01-16,1.5,48,judo,1,0,0
 794648133,Paula Reto,RSA,female,1990-05-03,1.7,62,golf,0,0,0
 870585003,Paula Ungureanu,ROU,female,1980-03-30,1.81,75,handball,0,0,0
 92938402,Paula Yamila Nizetich,ARG,female,1989-01-27,1.81,74,volleyball,0,0,0
@@ -8534,7 +8534,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 709692617,Peng Soon Chan,MAS,male,1988-04-27,1.75,68,badminton,0,0,0
 983734556,Peng Tang,HKG,male,1981-02-04,1.78,77,table tennis,0,0,0
 431074718,Peng Zhou,CHN,male,1989-10-11,2.06,102,basketball,0,0,0
-239797947,Penny Oleksiak,CAN,female,2000-06-13,1.86,68,aquatics,0,0,0
+239797947,Penny Oleksiak,CAN,female,2000-06-13,1.86,68,aquatics,0,0,1
 56646013,Penny Taylor,AUS,female,1981-05-24,1.85,72,basketball,0,0,0
 319525295,Pernilla Lindberg,SWE,female,1986-07-13,1.65,60,golf,0,0,0
 489476635,Pernille Blume,DEN,female,1994-05-14,1.7,58,aquatics,0,0,0
@@ -8782,7 +8782,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 155018393,Rafal Augustyn,POL,male,1984-05-14,1.8,82,athletics,0,0,0
 178643168,Rafal Buszek,POL,male,1987-04-28,1.94,81,volleyball,0,0,0
 290922761,Rafal Fedaczynski,POL,male,1980-12-03,1.68,58,athletics,0,0,0
-888503746,Rafal Majka,POL,male,1989-09-12,1.73,61,cycling,0,0,0
+888503746,Rafal Majka,POL,male,1989-09-12,1.73,61,cycling,0,0,1
 740945281,Rafal Omelko,POL,male,1989-01-16,1.94,82,athletics,0,0,0
 490104589,Rafal ROSOLSKI,POL,male,1991-05-27,,,canoe,0,0,0
 650690707,Rafal Sarnecki,POL,male,1990-01-08,1.75,81,cycling,0,0,0
@@ -9155,7 +9155,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 820935997,Rosko Specman,RSA,male,1989-04-28,1.74,81,rugby sevens,0,0,0
 264922632,Ross Millington,GBR,male,1989-09-19,1.73,58,athletics,0,0,0
 956717868,Ross Murdoch,GBR,male,1994-01-14,1.83,76,aquatics,0,0,0
-905413207,Rossella Fiamingo,ITA,female,1991-07-14,1.67,50,fencing,0,0,0
+905413207,Rossella Fiamingo,ITA,female,1991-07-14,1.67,50,fencing,0,1,0
 761193618,Rossella Gregorio,ITA,female,1990-08-30,1.64,60,fencing,0,0,0
 133162259,Rostyslav PEVTSOV,AZE,male,1987-04-15,1.87,74,triathlon,0,0,0
 977315432,Roukaya Moussa Mahamane,NIG,female,1997-01-13,1.63,47,aquatics,0,0,0
@@ -9247,7 +9247,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 298881439,Ryan SISSONS,NZL,male,1988-06-24,1.75,62,triathlon,0,0,0
 799465101,Ryan Seaton,IRL,male,1987-12-03,1.82,77,sailing,0,0,0
 764390994,Ryan Taylor,NZL,male,1980-03-02,1.75,73,shooting,0,0,0
-524440279,Ryan Tyack,AUS,male,1991-06-02,1.86,102,archery,0,0,0
+524440279,Ryan Tyack,AUS,male,1991-06-02,1.86,102,archery,0,0,1
 983386718,Rynardt van Rensburg,RSA,male,1992-03-23,1.85,73,athletics,0,0,0
 40870014,Ryohei Arai,JPN,male,1991-06-23,1.83,95,athletics,0,0,0
 166557498,Ryohei Kato,JPN,male,1993-09-09,1.62,54,gymnastics,0,0,0
@@ -9393,7 +9393,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 211016698,Sandra Perkovic,CRO,female,1990-06-21,1.83,85,athletics,0,0,0
 999653955,Sandra Sepulveda,COL,female,1988-03-03,1.67,58,football,0,0,0
 705817505,Sandrine Gruda,FRA,female,1987-06-25,1.93,83,basketball,0,0,0
-359187609,Sandrine Mainville,CAN,female,1992-03-20,1.73,66,aquatics,0,0,0
+359187609,Sandrine Mainville,CAN,female,1992-03-20,1.73,66,aquatics,0,0,1
 896203083,Sandro AMINASHVILI,GEO,male,1992-02-21,1.8,85,wrestling,0,0,0
 673884830,Sandro Bazadze,GEO,male,1993-07-29,1.93,88,fencing,0,0,0
 140258499,Sandro Sukno,CRO,male,1990-06-30,2.0,93,water polo,0,0,0
@@ -9647,7 +9647,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 299216431,Seungsu Lee,KOR,male,1990-07-20,1.78,81,judo,0,0,0
 319207842,Seungwoo Han,KOR,male,1983-07-03,1.73,86,shooting,0,0,0
 950256788,Seungwoo Ryu,KOR,male,1993-12-17,1.72,67,football,0,0,0
-739050983,Seungyun Lee,KOR,male,1995-04-18,1.74,80,archery,0,0,0
+739050983,Seungyun Lee,KOR,male,1995-04-18,1.74,80,archery,1,0,0
 663165360,Severiano van Ass,NED,male,1992-04-10,1.78,70,hockey,0,0,0
 243524329,Severo Jesus Jurado Lopez,ESP,male,1988-09-09,1.72,71,equestrian,0,0,0
 615481668,Seye Ogunlewe,NGR,male,1991-08-30,1.89,84,athletics,0,0,0
@@ -9782,7 +9782,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 989336826,Signe Marie Fidge STORE,NOR,female,1995-08-23,,,wrestling,0,0,0
 794983348,Siham Hilali,MAR,female,1986-05-02,1.6,48,athletics,0,0,0
 299706553,Sijing Huang,CHN,female,1996-01-08,1.9,82,basketball,0,0,0
-726164746,Siling Yi,CHN,female,1989-05-06,1.65,51,shooting,0,0,0
+726164746,Siling Yi,CHN,female,1989-05-06,1.65,51,shooting,0,0,1
 486158932,Silvan Dillier,SUI,male,1990-08-03,1.83,73,cycling,0,0,0
 74936467,Silvano Chesani,ITA,male,1988-07-17,1.91,83,athletics,0,0,0
 342167963,Silvia Danekova,BUL,female,1983-02-07,1.67,49,athletics,0,0,0
@@ -9832,7 +9832,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 322780969,Simone Facey,JAM,female,1985-05-07,1.62,53,athletics,0,0,0
 253019440,Simone Giannelli,ITA,male,1996-08-09,1.98,92,volleyball,0,0,0
 286644337,Simone Laudehr,GER,female,1986-07-12,1.74,56,football,0,0,0
-973414226,Simone Manuel,USA,female,1996-08-02,1.78,72,aquatics,0,0,0
+973414226,Simone Manuel,USA,female,1996-08-02,1.78,72,aquatics,0,1,0
 943244359,Simone RUFFINI,ITA,male,1989-12-07,1.73,67,aquatics,0,0,0
 392271182,Simone Sabbioni,ITA,male,1996-10-03,1.85,79,aquatics,0,0,0
 828729175,Simone Venier,ITA,male,1984-08-26,1.96,94,rowing,0,0,0
@@ -9923,7 +9923,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 901973768,Sophie Schmidt,CAN,female,1988-06-28,1.72,68,football,0,0,0
 696322599,Sophie Souwer,NED,female,1987-06-29,1.85,77,rowing,0,0,0
 379316110,Sophie van Gestel,NED,female,1991-06-29,1.78,69,beach volleyball,0,0,0
-562244040,Sopita Tanasan,THA,female,1994-12-23,1.54,48,weightlifting,0,0,0
+562244040,Sopita Tanasan,THA,female,1994-12-23,1.54,48,weightlifting,1,0,0
 433864898,Sopuruchi Dimgba,NGR,male,1993-03-29,1.68,68,football,0,0,0
 602705126,Soren Kjeldsen,DEN,male,1975-05-17,1.7,72,golf,0,0,0
 510174906,Soren Opti,SUR,male,1997-05-16,,,badminton,0,0,0
@@ -9953,7 +9953,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 191166211,Srabani Nanda,IND,female,1991-05-07,1.64,54,athletics,0,0,0
 980722321,Srdjan Mrvaljevic,MNE,male,1984-05-16,1.86,85,judo,0,0,0
 999965015,Sreejesh Parattu,IND,male,1988-05-08,1.83,79,hockey,0,0,0
-213384743,Sri Wahyuni Agustiani,INA,female,1994-08-13,1.47,47,weightlifting,0,0,0
+213384743,Sri Wahyuni Agustiani,INA,female,1994-08-13,1.47,47,weightlifting,0,1,0
 311879753,Srikanth Kidambi,IND,male,1993-02-07,1.78,66,badminton,0,0,0
 79428759,Stacey Michelsen,NZL,female,1991-02-18,1.73,66,hockey,0,0,0
 64239196,Stacy Lewis,USA,female,1985-02-16,1.66,60,golf,0,0,0
@@ -10261,12 +10261,12 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 606861063,Taybe Mustafa YUSEIN,BUL,female,1991-05-04,1.63,63,wrestling,0,0,0
 928304511,Taylor Curran,CAN,male,1992-05-19,1.83,80,hockey,0,0,0
 849242377,Taylor Ellis-Watson,USA,female,1993-05-06,,,athletics,0,0,0
-45282983,Taylor Madison Ruck,CAN,female,2000-05-28,1.83,60,aquatics,0,0,0
+45282983,Taylor Madison Ruck,CAN,female,2000-05-28,1.83,60,aquatics,0,0,1
 721284471,Taylor McKeown,AUS,female,1995-03-17,1.78,65,aquatics,0,0,0
 240962566,Taylor Milne,CAN,male,1981-09-14,1.65,60,athletics,0,0,0
 32103246,Taylor Phinney,USA,male,1990-06-27,1.96,81,cycling,0,0,0
 84694873,Taylor Sander,USA,male,1992-03-17,1.96,80,volleyball,0,0,0
-288362768,Taylor Worth,AUS,male,1991-01-08,1.74,60,archery,0,0,0
+288362768,Taylor Worth,AUS,male,1991-01-08,1.74,60,archery,0,0,1
 58561312,Teau McKenzie,COK,female,1995-03-12,1.89,69,sailing,0,0,0
 777261301,Tebogo Moerane,RSA,male,1995-04-07,1.67,64,football,0,0,0
 93902028,Teddy Atine - Venel,FRA,male,1985-03-16,1.84,77,athletics,0,0,0
@@ -10804,7 +10804,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 989120045,Violah Cheptoo Lagat,KEN,female,1989-03-01,1.65,,athletics,0,0,0
 428647770,Violetta Kolobova,RUS,female,1991-07-27,1.76,64,fencing,0,0,0
 680801774,Virginia Bardach Martin,ARG,female,1992-04-03,1.74,57,aquatics,0,0,0
-569654952,Virginia Thrasher,USA,female,1997-02-28,1.55,54,shooting,0,0,0
+569654952,Virginia Thrasher,USA,female,1997-02-28,1.55,54,shooting,1,0,0
 756374787,Virginie Cueff,FRA,female,1988-06-18,1.7,63,cycling,0,0,0
 3602282,Virimi Vakatawa,FRA,male,1992-05-01,1.85,87,rugby sevens,0,0,0
 424311527,Visiline Jepkesho,KEN,female,1989-12-30,1.6,43,athletics,0,0,0
@@ -10884,7 +10884,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 843515403,Wei Hong,CHN,male,1989-10-04,1.92,86,badminton,0,0,0
 739056222,Wei Jin,CHN,male,1987-02-26,1.83,70,rowing,0,0,0
 450932930,Wei Liu,CHN,male,1987-11-27,1.75,,boxing,0,0,0
-358145132,Wei Pang,CHN,male,1986-07-19,1.78,77,shooting,0,0,0
+358145132,Wei Pang,CHN,male,1986-07-19,1.78,77,shooting,0,0,1
 520932256,Wei Sun,CHN,male,1992-10-27,1.93,69,fencing,0,0,0
 416880116,Wei Wang,CHN,male,1988-07-07,1.8,70,sailing,0,0,0
 253018225,Wei Yu,CHN,male,1987-09-11,1.8,55,athletics,0,0,0
@@ -10962,7 +10962,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 257257958,Won Chol YUN,PRK,male,1989-07-03,1.63,59,wrestling,0,0,0
 457937949,Won Jin Kim,KOR,male,1992-05-01,1.68,60,judo,0,0,0
 663385639,Wonchul Yoo,KOR,male,1984-07-20,1.65,59,gymnastics,0,0,0
-69693053,Woojin Kim,KOR,male,1992-06-20,1.8,95,archery,0,0,0
+69693053,Woojin Kim,KOR,male,1992-06-20,1.8,95,archery,1,0,0
 896208031,Woongtae JUN,KOR,male,1995-08-01,1.75,66,modern pentathlon,0,0,0
 474296927,Wout Poels,NED,male,1987-10-01,1.86,67,cycling,0,0,0
 851340643,Wuta Waco Bige Dombaxi,ANG,female,1986-04-05,1.8,92,handball,0,0,0
@@ -11017,7 +11017,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 692957998,Xiuzhi Lu,CHN,female,1993-10-26,1.6,45,athletics,0,0,0
 305914002,Xiyu Lin,CHN,female,1996-02-25,1.71,65,golf,0,0,0
 285179001,Xoana Iacoi,ARG,female,1992-06-03,1.61,70,handball,0,0,0
-56252755,Xuan Vinh Hoang,VIE,male,1974-10-06,1.75,75,shooting,0,0,0
+56252755,Xuan Vinh Hoang,VIE,male,1974-10-06,1.75,75,shooting,1,0,0
 124699891,Xue Li,FRA,female,1985-04-14,1.65,57,table tennis,0,0,0
 122371222,Xuechen HUANG,CHN,female,1990-02-25,1.75,62,aquatics,0,0,0
 794502274,Xuechun ZHONG,CHN,female,1994-01-18,1.66,55,wrestling,0,0,0
@@ -11063,7 +11063,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 490068469,Yang Liu,CHN,male,1994-09-10,1.62,61,gymnastics,0,0,0
 99159206,Yang Lyu,CHN,female,1993-11-26,1.83,77,rowing,0,0,0
 349451420,Yang Peng,CHN,female,1992-01-17,1.63,59,hockey,0,0,0
-344496691,Yang Sun,CHN,male,1991-12-01,2.0,92,aquatics,0,0,0
+344496691,Yang Sun,CHN,male,1991-12-01,2.0,92,aquatics,0,1,0
 619307407,Yang Wang,SVK,male,1994-09-24,1.83,73,table tennis,0,0,0
 248122539,Yang Yang,CHN,male,1991-06-26,1.83,75,athletics,0,0,0
 270107002,Yang Yu,CHN,female,1986-04-07,1.66,62,badminton,0,0,0
@@ -11122,7 +11122,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 4764317,Yekaterina NEMICH,KAZ,female,1995-01-03,1.69,47,aquatics,0,0,0
 247875436,Yekaterina Rudenko,KAZ,female,1994-10-16,1.8,69,aquatics,0,0,0
 953630497,Yekaterina Smirnova,KAZ,female,1988-05-21,1.65,63,canoe,0,0,0
-17150577,Yeldos Smetov,KAZ,male,1992-09-09,1.67,60,judo,0,0,0
+17150577,Yeldos Smetov,KAZ,male,1992-09-09,1.67,60,judo,0,1,0
 932118784,Yelena Leuchanka,BLR,female,1983-04-30,1.95,86,basketball,0,0,0
 805715080,Yelena Ryabova,TKM,female,1990-11-03,1.7,56,athletics,0,0,0
 485869325,Yelizaveta Korol,KAZ,female,1994-09-02,1.67,69,shooting,0,0,0
@@ -11175,7 +11175,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 196292572,Yirisleydi Ford,CUB,female,1991-08-18,1.68,66,athletics,0,0,0
 102152415,Yisela Cuesta,COL,female,1991-09-27,1.66,59,football,0,0,0
 712061980,Yislena Hernandez,CUB,female,1990-03-13,1.67,57,rowing,0,0,0
-56600686,Yiwen Sun,CHN,female,1992-06-17,1.77,63,fencing,0,0,0
+56600686,Yiwen Sun,CHN,female,1992-06-17,1.77,63,fencing,0,0,1
 413280688,Yixuan Hu,CHN,male,1994-10-23,1.85,83,aquatics,0,0,0
 904689732,Yoandry Iriarte Galvez,CUB,male,1986-05-05,1.77,79,fencing,0,0,0
 115955580,Yoandys Lescay,CUB,male,1994-01-05,1.81,77,athletics,0,0,0
@@ -11354,7 +11354,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
 157674707,Yvonne Losos de Muniz,DOM,female,1967-09-08,1.83,64,equestrian,0,0,0
 308404537,Yvonne Trevino,MEX,female,1989-09-08,1.7,63,athletics,0,0,0
 503085577,Zac Williams,NZL,male,1995-07-21,1.8,89,cycling,0,0,0
-306067063,Zach Garrett,USA,male,1995-04-08,1.78,63,archery,0,0,0
+306067063,Zach Garrett,USA,male,1995-04-08,1.78,63,archery,0,1,0
 995684067,Zach Ziemek,USA,male,1993-02-23,1.94,88,athletics,0,0,0
 586642596,Zack Piontek,RSA,male,1991-01-27,1.81,90,judo,0,0,0
 99932834,Zack Test,USA,male,1989-10-13,1.91,92,rugby sevens,0,0,0
