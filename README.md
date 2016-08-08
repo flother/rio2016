@@ -1,8 +1,10 @@
-This dataset includes the official statistics on all 11,482 athletes (6,299 men and 5,183 women) at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website] [rio]. Flaws in the source data are reflected here. 
+This dataset includes the official statistics on all 11,482 athletes (6,299 men and 5,183 women) at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website] [rio]. Flaws in the source data are reflected here.
+
+* [Download the latest athlete data as a CSV] [csv]
 
 ## Column definitions
 
-The athlete data is stored in `athletes.csv`; one athlete per row, and eleven columns. Empty cells are null values.
+The athlete data is stored in [`athletes.csv`] [csv]; one athlete per row, and eleven columns. Empty cells are null values.
 
 1. `id`
     * Athlete id
@@ -97,6 +99,7 @@ The athlete data is stored in `athletes.csv`; one athlete per row, and eleven co
 
 
 [rio]: https://www.rio2016.com/
+[csv]: http://rawgit.com/flother/rio2016/master/athletes.csv
 [tcc]: https://en.wikipedia.org/wiki/List_of_IOC_country_codes
 [rot]: https://en.wikipedia.org/wiki/Refugee_Olympic_Team_at_the_2016_Summer_Olympics
 [koc]: https://www.olympic.org/news/suspension-of-the-kuwait-olympic-committee
