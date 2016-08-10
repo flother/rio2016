@@ -1,10 +1,11 @@
-This dataset includes the official statistics on all 11,515 athletes (6,330 men and 5,185 women) at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website] [rio]. Flaws in the source data are reflected here.
+This dataset includes the official statistics on the 11,515 athletes (6,330 men and 5,185 women) and 306 events at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website] [rio]. Flaws in the source data are reflected here.
 
-* [Download the latest athlete data as a CSV] [csv]
+* [Download the latest athlete data as a CSV] [ath]
+* [Download the latest event data as a CSV] [evt]
 
-## Column definitions
+## Column definitions for `athletes.csv`
 
-The athlete data is stored in [`athletes.csv`] [csv]; one athlete per row, and eleven columns. Empty cells are null values.
+The athlete data is stored in [`athletes.csv`] [ath]; one athlete per row, and eleven columns. Empty cells are null values.
 
 1. `id`
     * Athlete id
@@ -98,8 +99,47 @@ The athlete data is stored in [`athletes.csv`] [csv]; one athlete per row, and e
     * Contains null values
 
 
+## Column definitions for `events.csv`
+
+The event data is stored in [`events.csv`] [evt]; one event per row, and six columns. Empty cells are null values.
+
+1. `id`
+    * Event id
+    * Integer between 1 and 1,000,000
+    * Unique
+    * No null values
+2. `sport`
+    * The sport in which the event is categorised competes, as defined by the [IOC] [ioc]
+    * One of 28 lower-case string values (see `athletes.csv` column definitions for possible values)
+    * Not unique
+    * No null values
+3. `discipline`
+    * The event's sport sub-category; when a sport is not sub-categorised (e.g. football) simply a duplicate of column 2)
+    * String up to 21 characters in length
+    * Not unique
+    * No null values
+4. `name`
+    * Name of the event
+    * String up to 35 characters in length
+    * Not unique
+    * No null values
+5. `sex`
+    * Sex of the athlete's competing in the event
+    * One of two lower-case string values:
+        * `male`
+        * `female`
+    * Not unique
+    * No null values
+6. `venues`
+    * Names of the venues at which the event occurs; comma-separated list when an event occurs at more than one venue
+    * String up to 112 characters in length
+    * Not unique
+    * No null values
+
+
 [rio]: https://www.rio2016.com/
-[csv]: http://rawgit.com/flother/rio2016/master/athletes.csv
+[ath]: http://rawgit.com/flother/rio2016/master/athletes.csv
+[evt]: http://rawgit.com/flother/rio2016/master/events.csv
 [tcc]: https://en.wikipedia.org/wiki/List_of_IOC_country_codes
 [rot]: https://en.wikipedia.org/wiki/Refugee_Olympic_Team_at_the_2016_Summer_Olympics
 [koc]: https://www.olympic.org/news/suspension-of-the-kuwait-olympic-committee
