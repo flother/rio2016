@@ -101,7 +101,7 @@ The athlete data is stored in [`athletes.csv`] [ath]; one athlete per row, and e
 
 ## Column definitions for `events.csv`
 
-The event data is stored in [`events.csv`] [evt]; one event per row, and six columns. Empty cells are null values.
+The event data is stored in [`events.csv`] [evt]; one event per row, and six columns.
 
 1. `id`
     * Event id
