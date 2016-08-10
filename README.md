@@ -101,7 +101,7 @@ The athlete data is stored in [`athletes.csv`] [ath]; one athlete per row, and e
 
 ## Column definitions for `events.csv`
 
-The event data is stored in [`events.csv`] [evt]; one event per row, and six columns.
+The event data is stored in [`events.csv`] [evt]; one event per row, and six columns. There are 306 events across 50 disciplines in 28 sports; 161 for men, 136 for women, and 9 mixed sex.
 
 1. `id`
     * Event id
