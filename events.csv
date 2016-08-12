@@ -166,8 +166,8 @@ id,sport,discipline,name,sex,venues
 497812,fencing,team,Women's Épée Team,female,Carioca Arena 3
 399773,fencing,team,Men's Foil Team,male,Carioca Arena 3
 100515,fencing,team,Men's Épée Team,male,Carioca Arena 3
-784723,football,football,Women,female,"Fonte Nova Arena, Mané Garrincha Stadium, Maracanã, Corinthians Arena, Mineirão, Olympic Stadium, Amazônia Arena"
-575557,football,football,Men,male,"Fonte Nova Arena, Mané Garrincha Stadium, Maracanã, Corinthians Arena, Mineirão, Olympic Stadium, Amazônia Arena"
+784723,football,football,Women,female,"Mineirão, Olympic Stadium, Fonte Nova Arena, Amazônia Arena, Corinthians Arena, Mané Garrincha Stadium, Maracanã"
+575557,football,football,Men,male,"Mineirão, Olympic Stadium, Fonte Nova Arena, Amazônia Arena, Corinthians Arena, Mané Garrincha Stadium, Maracanã"
 272378,golf,golf,Women's Individual Stroke Play,female,Olympic Golf Course
 709824,golf,golf,Men's Individual Stroke Play,male,Olympic Golf Course
 148864,gymnastics,artistic gymnastics,Women's Balance Beam,female,Rio Olympic Arena
@@ -206,8 +206,8 @@ id,sport,discipline,name,sex,venues
 138897,judo,judo,Men -73 kg,male,Carioca Arena 2
 489867,judo,judo,Men -81 kg,male,Carioca Arena 2
 498135,judo,judo,Men -90 kg,male,Carioca Arena 2
-889276,modern pentathlon,modern pentathlon,Women's Individual,female,"Deodoro Stadium, Youth Arena, Deodoro Aquatics Centre"
-894957,modern pentathlon,modern pentathlon,Men's Individual,male,"Deodoro Stadium, Youth Arena, Deodoro Aquatics Centre"
+889276,modern pentathlon,modern pentathlon,Women's Individual,female,"Deodoro Aquatics Centre, Deodoro Stadium, Youth Arena"
+894957,modern pentathlon,modern pentathlon,Men's Individual,male,"Deodoro Aquatics Centre, Deodoro Stadium, Youth Arena"
 14589,rowing,rowing,Lightweight Women's Double Sculls,female,Lagoa Stadium
 906628,rowing,rowing,Women's Double Sculls,female,Lagoa Stadium
 572390,rowing,rowing,Women's Eight,female,Lagoa Stadium
