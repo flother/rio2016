@@ -1,4 +1,4 @@
-This dataset includes the official statistics on the 11,545 athletes (6,338 men and 5,207 women) and 306 events at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website] [rio]. Flaws in the source data are reflected here.
+This dataset includes the official statistics on the 11,541 athletes (6,335 men and 5,206 women) and 306 events at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website] [rio]. Flaws in the source data are reflected here.
 
 * [Download the latest athlete data as a CSV] [ath]
 * [Download the latest event data as a CSV] [evt]
