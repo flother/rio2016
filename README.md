@@ -1,11 +1,11 @@
-This dataset includes the official statistics on the 11,538 athletes (6,333 men and 5,205 women) and 306 events at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website] [rio]. Flaws in the source data are reflected here.
+This dataset includes the official statistics on the 11,538 athletes (6,333 men and 5,205 women) and 306 events at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website][rio]. Flaws in the source data are reflected here.
 
-* [Download the latest athlete data as a CSV] [ath]
-* [Download the latest event data as a CSV] [evt]
+* [Download the latest athlete data as a CSV][ath]
+* [Download the latest event data as a CSV][evt]
 
 ## Column definitions for `athletes.csv`
 
-The athlete data is stored in [`athletes.csv`] [ath]; one athlete per row, and eleven columns. Empty cells are null values.
+The athlete data is stored in [`athletes.csv`][ath]; one athlete per row, and eleven columns. Empty cells are null values.
 
 1. `id`
     * Athlete id
@@ -19,7 +19,7 @@ The athlete data is stored in [`athletes.csv`] [ath]; one athlete per row, and e
     * No null values
 3. `nationality`
     * Athlete's nationality
-    * One of the [IOC] [ioc]'s 206 [three-letter country codes] [tcc], or `ROT` for members of the [Refugee Olympic Team] [rot]. Kuwaiti athletes' nationality is given as `IOA` due to the [suspension of the Kuwait Olympic Committee] [koc]
+    * One of the [IOC][ioc]'s 206 [three-letter country codes][tcc], or `ROT` for members of the [Refugee Olympic Team][rot]. Kuwaiti athletes' nationality is given as `IOA` due to the [suspension of the Kuwait Olympic Committee][koc]
     * Not unique
     * No null values
 4. `sex`
@@ -33,7 +33,7 @@ The athlete data is stored in [`athletes.csv`] [ath]; one athlete per row, and e
     * Athlete's date of birth
     * `YYYY-MM-DD` format
     * Not unique
-    * Contains a single null value, for Russia's [Pavel Sozykin] [psr]
+    * Contains a single null value, for Russia's [Pavel Sozykin][psr]
 6. `height`
     * Athlete's height, in metres
     * Floating-point number
@@ -45,7 +45,7 @@ The athlete data is stored in [`athletes.csv`] [ath]; one athlete per row, and e
     * Not unique
     * Contains null values
 8. `sport`
-    * The sport in which the athlete competes, as defined by the [IOC] [ioc]
+    * The sport in which the athlete competes, as defined by the [IOC][ioc]
     * One of 28 lower-case string values
         * `aquatics`
         * `archery`
@@ -101,7 +101,7 @@ The athlete data is stored in [`athletes.csv`] [ath]; one athlete per row, and e
 
 ## Column definitions for `events.csv`
 
-The event data is stored in [`events.csv`] [evt]; one event per row, and six columns. There are 306 events across 50 disciplines in 28 sports; 161 for men, 136 for women, and 9 mixed sex.
+The event data is stored in [`events.csv`][evt]; one event per row, and six columns. There are 306 events across 50 disciplines in 28 sports; 161 for men, 136 for women, and 9 mixed sex.
 
 1. `id`
     * Event id
@@ -109,7 +109,7 @@ The event data is stored in [`events.csv`] [evt]; one event per row, and six col
     * Unique
     * No null values
 2. `sport`
-    * The sport in which the event is categorised competes, as defined by the [IOC] [ioc]
+    * The sport in which the event is categorised competes, as defined by the [IOC][ioc]
     * One of 28 lower-case string values (see `athletes.csv` column definitions for possible values)
     * Not unique
     * No null values
