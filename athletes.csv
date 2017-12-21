@@ -8545,7 +8545,7 @@ id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze,inf
 223572860,Pavel Maslak,CZE,male,1991-02-21,1.76,66,athletics,0,0,0,
 455949717,Pavel Petrikov,CZE,male,1986-06-20,1.70,64,judo,0,0,0,
 321729482,Pavel Sankovich,BLR,male,1990-06-29,1.82,77,aquatics,0,0,0,
-663676373,Pavel Sozykin,RUS,male,,,,sailing,0,0,0,
+663676373,Pavel Sozykin,RUS,male,1987-12-25,,,sailing,0,0,0,
 654016001,Pavel Sukhov,RUS,male,1988-05-07,1.79,75,fencing,0,0,0,
 941704131,Pavle Kostov,CRO,male,1987-09-28,1.80,82,sailing,0,0,0,
 122873337,Pavlo Altukhov,UKR,male,1995-12-23,1.85,90,canoe,0,0,0,

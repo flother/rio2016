@@ -33,7 +33,7 @@ The athlete data is stored in [`athletes.csv`][ath]; one athlete per row, and el
     * Athlete's date of birth
     * `YYYY-MM-DD` format
     * Not unique
-    * Contains a single null value, for Russia's [Pavel Sozykin][psr]
+    * No null values
 6. `height`
     * Athlete's height, in metres
     * Floating-point number
@@ -143,5 +143,4 @@ The event data is stored in [`events.csv`][evt]; one event per row, and six colu
 [tcc]: https://en.wikipedia.org/wiki/List_of_IOC_country_codes
 [rot]: https://en.wikipedia.org/wiki/Refugee_Olympic_Team_at_the_2016_Summer_Olympics
 [koc]: https://www.olympic.org/news/suspension-of-the-kuwait-olympic-committee
-[psr]: https://www.rio2016.com/en/athlete/pavel-sozykin-rus
 [ioc]: https://www.olympic.org/the-ioc
