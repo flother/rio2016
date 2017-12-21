@@ -124,7 +124,7 @@ The event data is stored in [`events.csv`][evt]; one event per row, and six colu
     * Not unique
     * No null values
 5. `sex`
-    * Sex of the athlete's competing in the event
+    * Sex of the athletes competing in the event
     * One of two lower-case string values:
         * `male`
         * `female`
