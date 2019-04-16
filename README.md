@@ -138,8 +138,8 @@ The event data is stored in [`events.csv`][evt]; one event per row, and six colu
 
 
 [rio]: https://www.rio2016.com/
-[ath]: http://rawgit.com/flother/rio2016/master/athletes.csv
-[evt]: http://rawgit.com/flother/rio2016/master/events.csv
+[ath]: https://raw.githubusercontent.com/flother/rio2016/master/athletes.csv
+[evt]: https://raw.githubusercontent.com/flother/rio2016/master/events.csv
 [tcc]: https://en.wikipedia.org/wiki/List_of_IOC_country_codes
 [rot]: https://en.wikipedia.org/wiki/Refugee_Olympic_Team_at_the_2016_Summer_Olympics
 [koc]: https://www.olympic.org/news/suspension-of-the-kuwait-olympic-committee
