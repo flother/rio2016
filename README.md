@@ -1,7 +1,7 @@
-This dataset includes the official statistics on the 11,538 athletes (6,333 men and 5,205 women) and 306 events at the 2016 Olympic Games in Rio de Janeiro. The data is taken from the [Rio 2016 website][rio]. Flaws in the source data are reflected here.
+This dataset includes the official statistics on the 11,538 athletes (6,333 men and 5,205 women) and 306 events at the 2016 Olympic Games in Rio de Janeiro. The data was taken from the [Rio 2016 website][rio] but has since been deleted. You can read more about that in a blog post, ["Data for the 2016 Olympic Games in Rio de Janeiro"][blg].
 
-* [Download the latest athlete data as a CSV][ath]
-* [Download the latest event data as a CSV][evt]
+* [Download the athlete data as a CSV][ath]
+* [Download the event data as a CSV][evt]
 
 ## Column definitions for `athletes.csv`
 
@@ -138,6 +138,7 @@ The event data is stored in [`events.csv`][evt]; one event per row, and six colu
 
 
 [rio]: https://www.rio2016.com/
+[blg]: https://flother.is/2017/olympic-games-data/
 [ath]: https://raw.githubusercontent.com/flother/rio2016/master/athletes.csv
 [evt]: https://raw.githubusercontent.com/flother/rio2016/master/events.csv
 [tcc]: https://en.wikipedia.org/wiki/List_of_IOC_country_codes
